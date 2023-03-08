@@ -289,11 +289,3 @@ Weather-Data-Ingestion
 │  └─ USC00339312.txt
 └─ yld_data
    └─ US_corn_grain_yield.txt
-
-```#� �c�o�d�e�-�c�h�a�l�l�e�n�g�e�
-�
-�#� �c�o�d�e�
-�
-�#� �c�o�d�e�
-�
-�
