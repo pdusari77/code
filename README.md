@@ -1,5 +1,6 @@
 
 # Weather API with Django
+
 For this project, Django was chosen as the framework for building the REST API. The Django ORM was used to create models for the weather data records and migrations were created to set up the tables in the SQLite database. Migrations allow changes to the database schema to be easily managed over time.
 
 A script was written to ingest weather data from raw text files into the database using the Django ORM. The script checks for duplicates and provides log output indicating start and end times and the number of records ingested.
@@ -289,7 +290,10 @@ Weather-Data-Ingestion
 └─ yld_data
    └─ US_corn_grain_yield.txt
 
-```#   c o d e - c h a l l e n g e  
- #   c o d e  
- #   c o d e  
- 
+```#� �c�o�d�e�-�c�h�a�l�l�e�n�g�e�
+�
+�#� �c�o�d�e�
+�
+�#� �c�o�d�e�
+�
+�
