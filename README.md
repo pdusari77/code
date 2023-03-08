@@ -51,11 +51,11 @@ The following prerequisites are required to use this API:
 
 ### To ingest the data:
 
-    python3 run.py
+    python run.py
 
 ### To run the server:
 
-    python3 src/manage.py runserver
+    python src/manage.py runserver
 
 ### To access the API endpoints, use the following links:
 
